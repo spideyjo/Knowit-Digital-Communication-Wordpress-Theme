@@ -1,0 +1,30 @@
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+       only screen and (min--moz-device-pixel-ratio: 1.5),
+       only screen and (min-resolution: 240dpi) {
+/*---------- Social icons, icons ------------*/
+
+	.social-icons li a {
+		background-image:url('../images/socialicons-sprite@2x.png');
+		background-size: 300px;
+	}
+
+	.social-icons li.facebook a {background-position: 0px 0px;}
+	.social-icons li.google a {background-position: -24px 0px;}
+	.social-icons li.linkedin a {background-position: -48px 0;}
+	.social-icons li.twitter a {background-position: -72px 0px;}
+	.social-icons li.rss a {background-position: -96px 0px;}
+	.social-icons li.facebook-circle a {background-position: 120px 0px;}
+	.social-icons li.google-circle a {background-position: -144px 0px;}
+	.social-icons li.linkedin-circle a {background-position: -168px 0;}
+	.social-icons li.twitter-circle a {background-position: -192px 0px;}
+	.social-icons li.calendar a {background-position: -216px 0px;}
+	.social-icons li.tags a {background-position: -240px 0px;}
+}
+
+
+/*
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+       only screen and (min--moz-device-pixel-ratio: 1.5),
+       only screen and (min-resolution: 240dpi) {
+       	*/

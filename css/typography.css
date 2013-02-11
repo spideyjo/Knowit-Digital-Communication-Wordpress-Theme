@@ -1,0 +1,90 @@
+body,p,li,div
+{
+	font-family:'helveticaNeueLTStd45Light';
+	font-weight:400;
+	color:#4a4a4a
+}
+
+p.preamble
+{
+	font-family:'helveticaNeueLTStd65Medium';
+	font-size:20px;
+	line-height:30px;
+	margin-bottom:20px;
+	position:relative;
+	top:-5px
+}
+
+h1,h2,h3,h4,h5
+{
+	font-family:'GeorgiaProW01-Regular',Georgia;
+	font-weight:400
+}
+
+h1
+{
+	font-size:55px;
+	line-height:65px;
+	margin-bottom:20px
+}
+
+h1.archive {
+	font-size:35px;
+	line-height:45px;
+	margin-bottom:20px
+}
+
+h2
+{
+	font-size:25px;
+	line-height:35px;
+	margin-top:40px
+}
+
+h3
+{
+	font-size:20px;
+	line-height:30px;
+	margin-top:40px
+}
+
+h4
+{
+	font-size:20px;
+	margin-top: 40px;
+}
+
+h1 a,h2 a,h3 a
+{
+	color:#4a4a4a
+}
+
+h1 a:hover,h2 a:hover,h3 a:hover
+{
+	color:#4a4a4a
+}
+
+h1:first-child,h2:first-child,h3:first-child,h4:first-child
+{
+	position:relative;
+	top:-10px
+}
+
+i,em
+{
+	font-family:'helveticaNeueLTStd56Italic';
+	font-style:normal
+}
+
+b,strong
+{
+	font-family:'helveticaNeueLTStd65Medium';
+	font-weight:400
+}
+
+i b,em b,i strong,em strong,b em,b i,strong i,strong em
+{
+	font-family:'helveticaNeueLTStd66MdIt';
+	font-weight:400;
+	font-style:normal
+}
